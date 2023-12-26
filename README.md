@@ -34,4 +34,6 @@ A classification report, the features selected and confusion matrix was done. Be
 
 ![image](https://github.com/Chukwuebuka-2003/mlmodel/assets/56232734/c1a79cbe-9c6d-4890-88e1-e6ab32bfa1c5)
 
+These same processes were done with LogisticRegression
+
 The complete analysis can be found in the notebook in this repository
